@@ -1,0 +1,1106 @@
+{
+  "entities": [
+    {
+      "id": "E1",
+      "type": "HistoricDistrict",
+      "name": "New York State Barge Canal Historic District",
+      "aliases": [
+        "NYS Barge Canal Historic District"
+      ]
+    },
+    {
+      "id": "E2",
+      "type": "Canal",
+      "name": "Champlain Canal",
+      "aliases": []
+    },
+    {
+      "id": "E3",
+      "type": "Lock",
+      "name": "Lock C1",
+      "aliases": []
+    },
+    {
+      "id": "E4",
+      "type": "Dam",
+      "name": "Dam C-1",
+      "aliases": [
+        "Federal Lock & Dam, Troy"
+      ]
+    },
+    {
+      "id": "E5",
+      "type": "Bridge",
+      "name": "112th Street Bridge",
+      "aliases": [
+        "Bridge C-1"
+      ]
+    },
+    {
+      "id": "E6",
+      "type": "Structure",
+      "name": "Cohoes Terminal Wall",
+      "aliases": []
+    },
+    {
+      "id": "E7",
+      "type": "Shipyard",
+      "name": "Matton Shipyard",
+      "aliases": []
+    },
+    {
+      "id": "E8",
+      "type": "GeographicReference",
+      "name": "Start of Barge Canal maintenance",
+      "aliases": []
+    },
+    {
+      "id": "E9",
+      "type": "Junction",
+      "name": "Junction - Erie & Champlain canals",
+      "aliases": []
+    },
+    {
+      "id": "E10",
+      "type": "Bridge",
+      "name": "126th Street / US Rt. 4 Bridge",
+      "aliases": [
+        "Bridge C-2"
+      ]
+    },
+    {
+      "id": "E11",
+      "type": "Lock",
+      "name": "Lock C2",
+      "aliases": []
+    },
+    {
+      "id": "E12",
+      "type": "Bridge",
+      "name": "Lock C2 Access Road bridge",
+      "aliases": [
+        "Canal Bridge C-3"
+      ]
+    },
+    {
+      "id": "E13",
+      "type": "Terminal",
+      "name": "Mechanicville Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E14",
+      "type": "Bridge",
+      "name": "Rowland Ave. / SR 67 Bridge",
+      "aliases": [
+        "Bridge C-4A"
+      ]
+    },
+    {
+      "id": "E15",
+      "type": "Lock",
+      "name": "Lock C3",
+      "aliases": []
+    },
+    {
+      "id": "E16",
+      "type": "Bridge",
+      "name": "B&M railroad bridge",
+      "aliases": [
+        "Bridge C-5"
+      ]
+    },
+    {
+      "id": "E17",
+      "type": "Lock",
+      "name": "Lock C4",
+      "aliases": []
+    },
+    {
+      "id": "E18",
+      "type": "Dam",
+      "name": "Stillwater Fixed Crest Dam",
+      "aliases": [
+        "Dam C-4"
+      ]
+    },
+    {
+      "id": "E19",
+      "type": "Bridge",
+      "name": "CR 125 Bridge",
+      "aliases": [
+        "Bridge C-6"
+      ]
+    },
+    {
+      "id": "E20",
+      "type": "Bridge",
+      "name": "Ferry Street / SR 29 Bridge",
+      "aliases": [
+        "Bridge C-7"
+      ]
+    },
+    {
+      "id": "E21",
+      "type": "Bridge",
+      "name": "Lock C5 Road / CR42 Bridge",
+      "aliases": [
+        "Bridge C-8"
+      ]
+    },
+    {
+      "id": "E22",
+      "type": "Lock",
+      "name": "Lock C5",
+      "aliases": []
+    },
+    {
+      "id": "E23",
+      "type": "Dam",
+      "name": "Thompson Dam",
+      "aliases": [
+        "Fixed Crest Dam C-5"
+      ]
+    },
+    {
+      "id": "E24",
+      "type": "Terminal",
+      "name": "Thomson Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E25",
+      "type": "Bridge",
+      "name": "US 4 Bridge, Northumberland",
+      "aliases": [
+        "Bridge C-10"
+      ]
+    },
+    {
+      "id": "E26",
+      "type": "Bridge",
+      "name": "Lock Six Road Bridge",
+      "aliases": [
+        "Bridge C-11"
+      ]
+    },
+    {
+      "id": "E27",
+      "type": "Lock",
+      "name": "Lock C6",
+      "aliases": []
+    },
+    {
+      "id": "E28",
+      "type": "Bridge",
+      "name": "Fort Miller Road Bridge",
+      "aliases": [
+        "Bridge C-12"
+      ]
+    },
+    {
+      "id": "E29",
+      "type": "Bridge",
+      "name": "Paynes Bridge",
+      "aliases": [
+        "Bridge C-12"
+      ]
+    },
+    {
+      "id": "E30",
+      "type": "Dam",
+      "name": "Crocker Reef Dam",
+      "aliases": []
+    },
+    {
+      "id": "E31",
+      "type": "Gate",
+      "name": "Crocker Reef Guard Gate",
+      "aliases": []
+    },
+    {
+      "id": "E32",
+      "type": "Bridge",
+      "name": "Delaware & Hudson RR Bridge",
+      "aliases": [
+        "Bridge C-14-X"
+      ]
+    },
+    {
+      "id": "E33",
+      "type": "Bridge",
+      "name": "Route 197 Bridge",
+      "aliases": [
+        "Bridge C-14-Y"
+      ]
+    },
+    {
+      "id": "E34",
+      "type": "Terminal",
+      "name": "Fort Edward Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E35",
+      "type": "Lock",
+      "name": "Lock C7",
+      "aliases": []
+    },
+    {
+      "id": "E36",
+      "type": "Structure",
+      "name": "Stone Loading Dock, Fort Edward",
+      "aliases": []
+    },
+    {
+      "id": "E37",
+      "type": "Facility",
+      "name": "FORT EDWARD CANAL SHOPS",
+      "aliases": []
+    },
+    {
+      "id": "E38",
+      "type": "Bridge",
+      "name": "Broadway / SR 4 Bridge",
+      "aliases": [
+        "Bridge C-14"
+      ]
+    },
+    {
+      "id": "E39",
+      "type": "Bridge",
+      "name": "Argyle Street Bridge",
+      "aliases": [
+        "Bridge C-16"
+      ]
+    },
+    {
+      "id": "E40",
+      "type": "Bridge",
+      "name": "East Street Bridge",
+      "aliases": [
+        "Bridge C-17"
+      ]
+    },
+    {
+      "id": "E41",
+      "type": "Facility",
+      "name": "General Electric dewatering facility",
+      "aliases": []
+    },
+    {
+      "id": "E42",
+      "type": "Lock",
+      "name": "Lock C8",
+      "aliases": []
+    },
+    {
+      "id": "E43",
+      "type": "Canal",
+      "name": "Old Champlain Canal / Glens Falls Feeder",
+      "aliases": []
+    },
+    {
+      "id": "E44",
+      "type": "Bridge",
+      "name": "SR 196 Bridge, Smiths Basin",
+      "aliases": [
+        "Bridge C-18"
+      ]
+    },
+    {
+      "id": "E45",
+      "type": "Bridge",
+      "name": "New Swamp Road Bridge",
+      "aliases": [
+        "Bridge C-19"
+      ]
+    },
+    {
+      "id": "E46",
+      "type": "Spillway",
+      "name": "Wood Creek Siphon Spillway",
+      "aliases": []
+    },
+    {
+      "id": "E47",
+      "type": "Lock",
+      "name": "Lock C9",
+      "aliases": []
+    },
+    {
+      "id": "E48",
+      "type": "Spillway",
+      "name": "East Creek Spillway",
+      "aliases": []
+    },
+    {
+      "id": "E49",
+      "type": "Bridge",
+      "name": "SR 149 Bridge",
+      "aliases": [
+        "Bridge C-21"
+      ]
+    },
+    {
+      "id": "E50",
+      "type": "Bridge",
+      "name": "Baldwin Corners Bridge",
+      "aliases": [
+        "Bridge C-22"
+      ]
+    },
+    {
+      "id": "E51",
+      "type": "Bridge",
+      "name": "Clay Hill Road Bridge",
+      "aliases": [
+        "Bridge C-23"
+      ]
+    },
+    {
+      "id": "E52",
+      "type": "Bridge",
+      "name": "SR 22 Bridge, Comstock",
+      "aliases": [
+        "Bridge C-25"
+      ]
+    },
+    {
+      "id": "E53",
+      "type": "Lock",
+      "name": "Lock C11",
+      "aliases": []
+    },
+    {
+      "id": "E54",
+      "type": "Bridge",
+      "name": "Ryder Road Bridge",
+      "aliases": [
+        "Bridge C-27"
+      ]
+    },
+    {
+      "id": "E55",
+      "type": "Bridge",
+      "name": "D&H railroad bridge, Whitehall",
+      "aliases": [
+        "Bridge C-28"
+      ]
+    },
+    {
+      "id": "E56",
+      "type": "Bridge",
+      "name": "Boardman Street / US Rt. 4 Bridge",
+      "aliases": [
+        "Bridge C-29"
+      ]
+    },
+    {
+      "id": "E57",
+      "type": "Terminal",
+      "name": "Whitehall Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E58",
+      "type": "Bridge",
+      "name": "Saunders Street Bridge",
+      "aliases": [
+        "Bridge C-30"
+      ]
+    },
+    {
+      "id": "E59",
+      "type": "Lock",
+      "name": "Lock C12",
+      "aliases": []
+    },
+    {
+      "id": "E60",
+      "type": "Bridge",
+      "name": "Clinton Street Bridge",
+      "aliases": [
+        "Bridge C-32"
+      ]
+    },
+    {
+      "id": "E61",
+      "type": "County",
+      "name": "Albany County",
+      "aliases": []
+    },
+    {
+      "id": "E62",
+      "type": "County",
+      "name": "Rensselaer County",
+      "aliases": []
+    },
+    {
+      "id": "E63",
+      "type": "County",
+      "name": "Saratoga County",
+      "aliases": []
+    },
+    {
+      "id": "E64",
+      "type": "County",
+      "name": "Washington County",
+      "aliases": []
+    },
+    {
+      "id": "E65",
+      "type": "City",
+      "name": "Troy",
+      "aliases": []
+    },
+    {
+      "id": "E66",
+      "type": "City",
+      "name": "Cohoes",
+      "aliases": []
+    },
+    {
+      "id": "E67",
+      "type": "City",
+      "name": "Mechanicville",
+      "aliases": []
+    },
+    {
+      "id": "E68",
+      "type": "Village",
+      "name": "Waterford",
+      "aliases": []
+    },
+    {
+      "id": "E69",
+      "type": "Village",
+      "name": "Schuylerville",
+      "aliases": []
+    },
+    {
+      "id": "E70",
+      "type": "Village",
+      "name": "Fort Edward",
+      "aliases": []
+    },
+    {
+      "id": "E71",
+      "type": "Village",
+      "name": "Whitehall",
+      "aliases": []
+    }
+  ],
+  "relationships": [
+    {
+      "source": "E1",
+      "target": "E2",
+      "type": "includes"
+    },
+    {
+      "source": "E2",
+      "target": "E3",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E4",
+      "type": "has_dam"
+    },
+    {
+      "source": "E2",
+      "target": "E5",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E6",
+      "type": "has_structure"
+    },
+    {
+      "source": "E2",
+      "target": "E7",
+      "type": "has_shipyard"
+    },
+    {
+      "source": "E2",
+      "target": "E8",
+      "type": "has_geographic_reference"
+    },
+    {
+      "source": "E2",
+      "target": "E9",
+      "type": "has_junction"
+    },
+    {
+      "source": "E2",
+      "target": "E10",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E11",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E12",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E13",
+      "type": "has_terminal"
+    },
+    {
+      "source": "E2",
+      "target": "E14",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E15",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E16",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E17",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E18",
+      "type": "has_dam"
+    },
+    {
+      "source": "E2",
+      "target": "E19",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E20",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E21",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E22",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E23",
+      "type": "has_dam"
+    },
+    {
+      "source": "E2",
+      "target": "E24",
+      "type": "has_terminal"
+    },
+    {
+      "source": "E2",
+      "target": "E25",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E26",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E27",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E28",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E29",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E30",
+      "type": "has_dam"
+    },
+    {
+      "source": "E2",
+      "target": "E31",
+      "type": "has_gate"
+    },
+    {
+      "source": "E2",
+      "target": "E32",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E33",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E34",
+      "type": "has_terminal"
+    },
+    {
+      "source": "E2",
+      "target": "E35",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E36",
+      "type": "has_structure"
+    },
+    {
+      "source": "E2",
+      "target": "E37",
+      "type": "has_facility"
+    },
+    {
+      "source": "E2",
+      "target": "E38",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E39",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E40",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E41",
+      "type": "has_facility"
+    },
+    {
+      "source": "E2",
+      "target": "E42",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E43",
+      "type": "has_canal"
+    },
+    {
+      "source": "E2",
+      "target": "E44",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E45",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E46",
+      "type": "has_spillway"
+    },
+    {
+      "source": "E2",
+      "target": "E47",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E48",
+      "type": "has_spillway"
+    },
+    {
+      "source": "E2",
+      "target": "E49",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E50",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E51",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E52",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E53",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E54",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E55",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E56",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E57",
+      "type": "has_terminal"
+    },
+    {
+      "source": "E2",
+      "target": "E58",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E59",
+      "type": "has_lock"
+    },
+    {
+      "source": "E2",
+      "target": "E60",
+      "type": "has_bridge"
+    },
+    {
+      "source": "E2",
+      "target": "E61",
+      "type": "located_in"
+    },
+    {
+      "source": "E2",
+      "target": "E62",
+      "type": "located_in"
+    },
+    {
+      "source": "E2",
+      "target": "E63",
+      "type": "located_in"
+    },
+    {
+      "source": "E2",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E3",
+      "target": "E4",
+      "type": "adjacent_to"
+    },
+    {
+      "source": "E3",
+      "target": "E65",
+      "type": "located_in"
+    },
+    {
+      "source": "E4",
+      "target": "E65",
+      "type": "located_in"
+    },
+    {
+      "source": "E5",
+      "target": "E65",
+      "type": "located_in"
+    },
+    {
+      "source": "E5",
+      "target": "E66",
+      "type": "located_in"
+    },
+    {
+      "source": "E6",
+      "target": "E66",
+      "type": "located_in"
+    },
+    {
+      "source": "E7",
+      "target": "E66",
+      "type": "located_in"
+    },
+    {
+      "source": "E10",
+      "target": "E65",
+      "type": "located_in"
+    },
+    {
+      "source": "E10",
+      "target": "E68",
+      "type": "located_in"
+    },
+    {
+      "source": "E11",
+      "target": "E63",
+      "type": "located_in"
+    },
+    {
+      "source": "E12",
+      "target": "E63",
+      "type": "located_in"
+    },
+    {
+      "source": "E13",
+      "target": "E67",
+      "type": "located_in"
+    },
+    {
+      "source": "E14",
+      "target": "E67",
+      "type": "located_in"
+    },
+    {
+      "source": "E15",
+      "target": "E62",
+      "type": "located_in"
+    },
+    {
+      "source": "E16",
+      "target": "E63",
+      "type": "located_in"
+    },
+    {
+      "source": "E17",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E18",
+      "target": "E69",
+      "type": "located_in"
+    },
+    {
+      "source": "E19",
+      "target": "E69",
+      "type": "located_in"
+    },
+    {
+      "source": "E20",
+      "target": "E69",
+      "type": "located_in"
+    },
+    {
+      "source": "E21",
+      "target": "E69",
+      "type": "located_in"
+    },
+    {
+      "source": "E22",
+      "target": "E69",
+      "type": "located_in"
+    },
+    {
+      "source": "E23",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E24",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E25",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E26",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E27",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E28",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E29",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E30",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E31",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E32",
+      "target": "E70",
+      "type": "located_in"
+    },
+    {
+      "source": "E33",
+      "target": "E70",
+      "type": "located_in"
+    },
+    {
+      "source": "E34",
+      "target": "E70",
+      "type": "located_in"
+    },
+    {
+      "source": "E35",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E36",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E37",
+      "target": "E70",
+      "type": "located_in"
+    },
+    {
+      "source": "E38",
+      "target": "E70",
+      "type": "located_in"
+    },
+    {
+      "source": "E39",
+      "target": "E70",
+      "type": "located_in"
+    },
+    {
+      "source": "E40",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E41",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E42",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E43",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E44",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E45",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E46",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E47",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E48",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E49",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E50",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E51",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E52",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E53",
+      "target": "E64",
+      "type": "located_in"
+    },
+    {
+      "source": "E54",
+      "target": "E71",
+      "type": "located_in"
+    },
+    {
+      "source": "E55",
+      "target": "E71",
+      "type": "located_in"
+    },
+    {
+      "source": "E56",
+      "target": "E71",
+      "type": "located_in"
+    },
+    {
+      "source": "E57",
+      "target": "E71",
+      "type": "located_in"
+    },
+    {
+      "source": "E58",
+      "target": "E71",
+      "type": "located_in"
+    },
+    {
+      "source": "E59",
+      "target": "E71",
+      "type": "located_in"
+    },
+    {
+      "source": "E60",
+      "target": "E71",
+      "type": "located_in"
+    }
+  ]
+}

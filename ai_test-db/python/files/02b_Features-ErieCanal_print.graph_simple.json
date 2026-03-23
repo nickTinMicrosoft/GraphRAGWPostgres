@@ -1,0 +1,885 @@
+{
+  "entities": [
+    {
+      "id": "E1",
+      "type": "HistoricDistrict",
+      "name": "New York State Barge Canal Historic District",
+      "aliases": []
+    },
+    {
+      "id": "E2",
+      "type": "GovernmentAgency",
+      "name": "United States Department of the Interior",
+      "aliases": []
+    },
+    {
+      "id": "E3",
+      "type": "GovernmentAgency",
+      "name": "National Park Service",
+      "aliases": [
+        "NPS"
+      ]
+    },
+    {
+      "id": "E4",
+      "type": "Canal",
+      "name": "Erie Canal",
+      "aliases": []
+    },
+    {
+      "id": "E5",
+      "type": "Canal",
+      "name": "Champlain Canal",
+      "aliases": []
+    },
+    {
+      "id": "E6",
+      "type": "Canal",
+      "name": "Mohawk River",
+      "aliases": []
+    },
+    {
+      "id": "E7",
+      "type": "CanalSection",
+      "name": "Waterford Flight",
+      "aliases": []
+    },
+    {
+      "id": "E8",
+      "type": "Lock",
+      "name": "Lock E2",
+      "aliases": []
+    },
+    {
+      "id": "E9",
+      "type": "Lock",
+      "name": "Lock E3",
+      "aliases": []
+    },
+    {
+      "id": "E10",
+      "type": "Lock",
+      "name": "Lock E4",
+      "aliases": []
+    },
+    {
+      "id": "E11",
+      "type": "Lock",
+      "name": "Lock E5",
+      "aliases": []
+    },
+    {
+      "id": "E12",
+      "type": "Lock",
+      "name": "Lock E6",
+      "aliases": []
+    },
+    {
+      "id": "E13",
+      "type": "Bridge",
+      "name": "Second Street Bridge, Waterford",
+      "aliases": [
+        "Bridge E-1"
+      ]
+    },
+    {
+      "id": "E14",
+      "type": "Bridge",
+      "name": "Fourth Street Bridge, Waterford",
+      "aliases": [
+        "Bridge E-2"
+      ]
+    },
+    {
+      "id": "E15",
+      "type": "Bridge",
+      "name": "Saratoga Avenue / NY Rt-32 Bridge, Waterford",
+      "aliases": [
+        "Bridge E-3"
+      ]
+    },
+    {
+      "id": "E16",
+      "type": "Bridge",
+      "name": "Delaware & Hudson Railroad Bridge",
+      "aliases": [
+        "Bridge E-4"
+      ]
+    },
+    {
+      "id": "E17",
+      "type": "Terminal",
+      "name": "Waterford Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E18",
+      "type": "Shop",
+      "name": "Waterford Canal Shops",
+      "aliases": []
+    },
+    {
+      "id": "E19",
+      "type": "Drydock",
+      "name": "Waterford Dry Dock",
+      "aliases": []
+    },
+    {
+      "id": "E20",
+      "type": "Dam",
+      "name": "Crescent Dam",
+      "aliases": []
+    },
+    {
+      "id": "E21",
+      "type": "PowerPlant",
+      "name": "Crescent Hydroelectric Plant",
+      "aliases": []
+    },
+    {
+      "id": "E22",
+      "type": "Terminal",
+      "name": "Crescent Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E23",
+      "type": "Bridge",
+      "name": "Route 9 Bridge, Crescent",
+      "aliases": [
+        "Bridge E-6"
+      ]
+    },
+    {
+      "id": "E24",
+      "type": "Bridge",
+      "name": "Northway (I-87) Bridge northbound",
+      "aliases": [
+        "Bridge E-7a"
+      ]
+    },
+    {
+      "id": "E25",
+      "type": "Bridge",
+      "name": "Northway (I-87) Bridge southbound",
+      "aliases": [
+        "Bridge E-7b"
+      ]
+    },
+    {
+      "id": "E26",
+      "type": "Lock",
+      "name": "Lock E7 - Vischer Ferry",
+      "aliases": []
+    },
+    {
+      "id": "E27",
+      "type": "Dam",
+      "name": "Vischer Ferry Dam",
+      "aliases": [
+        "Dam E-3"
+      ]
+    },
+    {
+      "id": "E28",
+      "type": "PowerPlant",
+      "name": "Vischer Ferry Hydroelectric Plant",
+      "aliases": []
+    },
+    {
+      "id": "E29",
+      "type": "Aqueduct",
+      "name": "Rexford Aqueduct Ruins",
+      "aliases": []
+    },
+    {
+      "id": "E30",
+      "type": "Bridge",
+      "name": "Route 146 Bridge, Rexford",
+      "aliases": [
+        "Bridge E-8"
+      ]
+    },
+    {
+      "id": "E31",
+      "type": "Bridge",
+      "name": "Delaware & Hudson RR Bridge",
+      "aliases": [
+        "Bridge E-10"
+      ]
+    },
+    {
+      "id": "E32",
+      "type": "Bridge",
+      "name": "Freemans Bridge",
+      "aliases": [
+        "Bridge E-11"
+      ]
+    },
+    {
+      "id": "E33",
+      "type": "Bridge",
+      "name": "Railroad Bridge",
+      "aliases": [
+        "Bridge E-12"
+      ]
+    },
+    {
+      "id": "E34",
+      "type": "Bridge",
+      "name": "Great Western Gateway (Route 5) Bridge",
+      "aliases": [
+        "Bridge E-13"
+      ]
+    },
+    {
+      "id": "E35",
+      "type": "Lock",
+      "name": "Lock E8, Scotia",
+      "aliases": []
+    },
+    {
+      "id": "E36",
+      "type": "Bridge",
+      "name": "I-890 Bridge",
+      "aliases": [
+        "Bridge E-14A"
+      ]
+    },
+    {
+      "id": "E37",
+      "type": "Bridge",
+      "name": "Boston & Maine Railroad Bridge",
+      "aliases": [
+        "Bridge E-15"
+      ]
+    },
+    {
+      "id": "E38",
+      "type": "Lock",
+      "name": "Lock E9, Rotterdam",
+      "aliases": []
+    },
+    {
+      "id": "E39",
+      "type": "Bridge",
+      "name": "Railroad Bridge",
+      "aliases": [
+        "Bridge E-17"
+      ]
+    },
+    {
+      "id": "E40",
+      "type": "Lock",
+      "name": "Lock E10, Cranesville",
+      "aliases": []
+    },
+    {
+      "id": "E41",
+      "type": "Terminal",
+      "name": "Amsterdam Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E42",
+      "type": "Bridge",
+      "name": "NY 30 Bridge, Amsterdam",
+      "aliases": [
+        "Bridge E-19A"
+      ]
+    },
+    {
+      "id": "E43",
+      "type": "Lock",
+      "name": "Lock E11, Amsterdam",
+      "aliases": []
+    },
+    {
+      "id": "E44",
+      "type": "Lock",
+      "name": "Lock E12, Tribes Hill",
+      "aliases": []
+    },
+    {
+      "id": "E45",
+      "type": "Bridge",
+      "name": "SR 30A Bridge, Fonda-Fultonville",
+      "aliases": [
+        "Bridge E-23"
+      ]
+    },
+    {
+      "id": "E46",
+      "type": "Terminal",
+      "name": "Fonda Terminal & Canal Shops",
+      "aliases": []
+    },
+    {
+      "id": "E47",
+      "type": "Lock",
+      "name": "Lock E13, Yosts",
+      "aliases": []
+    },
+    {
+      "id": "E48",
+      "type": "Terminal",
+      "name": "Canajoharie Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E49",
+      "type": "Bridge",
+      "name": "NY 10 Bridge, Canajoharie-Palatine",
+      "aliases": [
+        "Bridge E-24"
+      ]
+    },
+    {
+      "id": "E50",
+      "type": "Lock",
+      "name": "Lock E14, Canajoharie",
+      "aliases": []
+    },
+    {
+      "id": "E51",
+      "type": "Bridge",
+      "name": "SR 80 Bridge, Fort Plain-Nelliston",
+      "aliases": [
+        "Bridge E-25"
+      ]
+    },
+    {
+      "id": "E52",
+      "type": "Lock",
+      "name": "Lock E15, Fort Plain",
+      "aliases": []
+    },
+    {
+      "id": "E53",
+      "type": "Terminal",
+      "name": "St. Johnsville Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E54",
+      "type": "Lock",
+      "name": "Lock E16, St. Johnsville",
+      "aliases": []
+    },
+    {
+      "id": "E55",
+      "type": "Bridge",
+      "name": "River Road Bridge, Mindenville",
+      "aliases": [
+        "Bridge E-27"
+      ]
+    },
+    {
+      "id": "E56",
+      "type": "Bridge",
+      "name": "River Road Bridge, west of Mindenville",
+      "aliases": [
+        "Bridge E-28"
+      ]
+    },
+    {
+      "id": "E57",
+      "type": "GuardGate",
+      "name": "Guard Gate - 3 (Indian Castle)",
+      "aliases": []
+    },
+    {
+      "id": "E58",
+      "type": "Bridge",
+      "name": "Lansing Road Bridge",
+      "aliases": [
+        "Bridge E-29"
+      ]
+    },
+    {
+      "id": "E59",
+      "type": "Dam",
+      "name": "Rocky Rift Movable Dam",
+      "aliases": []
+    },
+    {
+      "id": "E60",
+      "type": "Lock",
+      "name": "Lock E17, Little Falls",
+      "aliases": []
+    },
+    {
+      "id": "E61",
+      "type": "GuardGate",
+      "name": "Guard Gate - 4 (Little Falls)",
+      "aliases": []
+    },
+    {
+      "id": "E62",
+      "type": "Terminal",
+      "name": "Little Falls Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E63",
+      "type": "Lock",
+      "name": "Lock E18, Jacksonburg",
+      "aliases": []
+    },
+    {
+      "id": "E64",
+      "type": "GuardGate",
+      "name": "Guard Gate - 5 (Herkimer)",
+      "aliases": []
+    },
+    {
+      "id": "E65",
+      "type": "Terminal",
+      "name": "Herkimer Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E66",
+      "type": "Terminal",
+      "name": "Ilion Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E67",
+      "type": "Terminal",
+      "name": "Frankfort Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E68",
+      "type": "Lock",
+      "name": "Lock E19, Frankfort",
+      "aliases": []
+    },
+    {
+      "id": "E69",
+      "type": "Lock",
+      "name": "Lock E20, Whiteboro",
+      "aliases": []
+    },
+    {
+      "id": "E70",
+      "type": "Lock",
+      "name": "Lock E21, New London",
+      "aliases": []
+    },
+    {
+      "id": "E71",
+      "type": "Lock",
+      "name": "Lock E22, New London",
+      "aliases": []
+    },
+    {
+      "id": "E72",
+      "type": "Lock",
+      "name": "Lock E23, Brewerton",
+      "aliases": []
+    },
+    {
+      "id": "E73",
+      "type": "Lock",
+      "name": "Lock E24, Baldwinsville",
+      "aliases": []
+    },
+    {
+      "id": "E74",
+      "type": "Lock",
+      "name": "Lock E25, Mays Point",
+      "aliases": []
+    },
+    {
+      "id": "E75",
+      "type": "Lock",
+      "name": "Lock E26, Clyde",
+      "aliases": []
+    },
+    {
+      "id": "E76",
+      "type": "Lock",
+      "name": "Lock E27, Lyons",
+      "aliases": []
+    },
+    {
+      "id": "E77",
+      "type": "Lock",
+      "name": "Lock E28A, Lyons",
+      "aliases": []
+    },
+    {
+      "id": "E78",
+      "type": "Lock",
+      "name": "Lock E28B, Newark",
+      "aliases": []
+    },
+    {
+      "id": "E79",
+      "type": "Lock",
+      "name": "Lock E29, Palmyra",
+      "aliases": []
+    },
+    {
+      "id": "E80",
+      "type": "Lock",
+      "name": "Lock E30, Macedon",
+      "aliases": []
+    },
+    {
+      "id": "E81",
+      "type": "Lock",
+      "name": "Lock E32, Pittsford",
+      "aliases": []
+    },
+    {
+      "id": "E82",
+      "type": "Lock",
+      "name": "Lock E33, Rochester",
+      "aliases": []
+    },
+    {
+      "id": "E83",
+      "type": "Lock",
+      "name": "East Guard Lock, Rochester",
+      "aliases": []
+    },
+    {
+      "id": "E84",
+      "type": "Lock",
+      "name": "West Guard Lock, Rochester",
+      "aliases": []
+    },
+    {
+      "id": "E85",
+      "type": "Lock",
+      "name": "Locks E34 & E35, Lockport",
+      "aliases": []
+    },
+    {
+      "id": "E86",
+      "type": "GuardGate",
+      "name": "Guard Gate - 18 (Pendleton)",
+      "aliases": []
+    },
+    {
+      "id": "E87",
+      "type": "Terminal",
+      "name": "Tonawanda Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E88",
+      "type": "Terminal",
+      "name": "North Tonawanda Terminal",
+      "aliases": []
+    },
+    {
+      "id": "E89",
+      "type": "Bridge",
+      "name": "Delaware Avenue / East Niagara Street / NY 384 Bridge, Tonawanda",
+      "aliases": [
+        "Bridge E-247"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "source": "E1",
+      "target": "E2",
+      "type": "managed_by"
+    },
+    {
+      "source": "E1",
+      "target": "E3",
+      "type": "managed_by"
+    },
+    {
+      "source": "E1",
+      "target": "E4",
+      "type": "includes"
+    },
+    {
+      "source": "E1",
+      "target": "E5",
+      "type": "includes"
+    },
+    {
+      "source": "E1",
+      "target": "E6",
+      "type": "includes"
+    },
+    {
+      "source": "E4",
+      "target": "E7",
+      "type": "has_section"
+    },
+    {
+      "source": "E7",
+      "target": "E8",
+      "type": "has_lock"
+    },
+    {
+      "source": "E7",
+      "target": "E9",
+      "type": "has_lock"
+    },
+    {
+      "source": "E7",
+      "target": "E10",
+      "type": "has_lock"
+    },
+    {
+      "source": "E7",
+      "target": "E11",
+      "type": "has_lock"
+    },
+    {
+      "source": "E7",
+      "target": "E12",
+      "type": "has_lock"
+    },
+    {
+      "source": "E8",
+      "target": "E13",
+      "type": "near"
+    },
+    {
+      "source": "E8",
+      "target": "E14",
+      "type": "near"
+    },
+    {
+      "source": "E8",
+      "target": "E15",
+      "type": "near"
+    },
+    {
+      "source": "E8",
+      "target": "E16",
+      "type": "near"
+    },
+    {
+      "source": "E8",
+      "target": "E17",
+      "type": "near"
+    },
+    {
+      "source": "E17",
+      "target": "E18",
+      "type": "has_shop"
+    },
+    {
+      "source": "E18",
+      "target": "E19",
+      "type": "has_drydock"
+    },
+    {
+      "source": "E20",
+      "target": "E21",
+      "type": "powers"
+    },
+    {
+      "source": "E20",
+      "target": "E22",
+      "type": "near"
+    },
+    {
+      "source": "E22",
+      "target": "E23",
+      "type": "near"
+    },
+    {
+      "source": "E26",
+      "target": "E27",
+      "type": "has_dam"
+    },
+    {
+      "source": "E27",
+      "target": "E28",
+      "type": "powers"
+    },
+    {
+      "source": "E29",
+      "target": "E30",
+      "type": "near"
+    },
+    {
+      "source": "E35",
+      "target": "E36",
+      "type": "near"
+    },
+    {
+      "source": "E35",
+      "target": "E37",
+      "type": "near"
+    },
+    {
+      "source": "E38",
+      "target": "E39",
+      "type": "near"
+    },
+    {
+      "source": "E40",
+      "target": "E41",
+      "type": "near"
+    },
+    {
+      "source": "E43",
+      "target": "E44",
+      "type": "near"
+    },
+    {
+      "source": "E45",
+      "target": "E46",
+      "type": "near"
+    },
+    {
+      "source": "E47",
+      "target": "E48",
+      "type": "near"
+    },
+    {
+      "source": "E49",
+      "target": "E50",
+      "type": "near"
+    },
+    {
+      "source": "E51",
+      "target": "E52",
+      "type": "near"
+    },
+    {
+      "source": "E53",
+      "target": "E54",
+      "type": "near"
+    },
+    {
+      "source": "E55",
+      "target": "E56",
+      "type": "near"
+    },
+    {
+      "source": "E57",
+      "target": "E58",
+      "type": "near"
+    },
+    {
+      "source": "E59",
+      "target": "E60",
+      "type": "near"
+    },
+    {
+      "source": "E61",
+      "target": "E62",
+      "type": "near"
+    },
+    {
+      "source": "E63",
+      "target": "E64",
+      "type": "near"
+    },
+    {
+      "source": "E65",
+      "target": "E66",
+      "type": "near"
+    },
+    {
+      "source": "E67",
+      "target": "E68",
+      "type": "near"
+    },
+    {
+      "source": "E69",
+      "target": "E70",
+      "type": "near"
+    },
+    {
+      "source": "E70",
+      "target": "E71",
+      "type": "near"
+    },
+    {
+      "source": "E71",
+      "target": "E72",
+      "type": "near"
+    },
+    {
+      "source": "E72",
+      "target": "E73",
+      "type": "near"
+    },
+    {
+      "source": "E73",
+      "target": "E74",
+      "type": "near"
+    },
+    {
+      "source": "E74",
+      "target": "E75",
+      "type": "near"
+    },
+    {
+      "source": "E75",
+      "target": "E76",
+      "type": "near"
+    },
+    {
+      "source": "E76",
+      "target": "E77",
+      "type": "near"
+    },
+    {
+      "source": "E77",
+      "target": "E78",
+      "type": "near"
+    },
+    {
+      "source": "E78",
+      "target": "E79",
+      "type": "near"
+    },
+    {
+      "source": "E79",
+      "target": "E80",
+      "type": "near"
+    },
+    {
+      "source": "E80",
+      "target": "E81",
+      "type": "near"
+    },
+    {
+      "source": "E81",
+      "target": "E82",
+      "type": "near"
+    },
+    {
+      "source": "E82",
+      "target": "E83",
+      "type": "near"
+    },
+    {
+      "source": "E83",
+      "target": "E84",
+      "type": "near"
+    },
+    {
+      "source": "E85",
+      "target": "E86",
+      "type": "near"
+    },
+    {
+      "source": "E87",
+      "target": "E88",
+      "type": "near"
+    },
+    {
+      "source": "E88",
+      "target": "E89",
+      "type": "near"
+    }
+  ]
+}

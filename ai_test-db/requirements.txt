@@ -1,0 +1,24 @@
+# Core database and vector support
+psycopg2-binary
+pgvector
+
+# Azure and OpenAI integration
+openai
+azure-ai-documentintelligence
+azure-core
+
+# PDF and document processing
+pdfminer.six
+
+# Visualization
+pyvis
+
+# Jupyter and notebook support
+notebook
+ipykernel
+
+# Optional: for graph/AGE support (if using Apache AGE)
+# apache-age (if available via pip, else install manually)
+
+# General utilities
+python-dotenv

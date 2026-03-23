@@ -1,0 +1,824 @@
+{
+  "entities": [
+    {
+      "id": "Champlain Canal",
+      "type": "Canal",
+      "aliases": [
+        "Champlain Canal",
+        "Champlain Barge Canal"
+      ],
+      "example_mention": "The Champlain Canal was NR listed as a district in 1976."
+    },
+    {
+      "id": "Hudson River",
+      "type": "River",
+      "aliases": [
+        "Hudson River"
+      ],
+      "example_mention": "Head of tidal navigation on the Hudson River."
+    },
+    {
+      "id": "Lock 1",
+      "type": "Lock",
+      "aliases": [
+        "Lock 1",
+        "LOCK C1",
+        "Lock One",
+        "C1"
+      ],
+      "example_mention": "Lock C1 is on the west (Waterford) bank of Hudson at the head of a short land-cut."
+    },
+    {
+      "id": "Dam 1",
+      "type": "Dam",
+      "aliases": [
+        "Dam 1",
+        "Dam C-1",
+        "DEC 225-4372",
+        "C1 Dam"
+      ],
+      "example_mention": "Dam C-1 (DEC 225-4372) traces a zig-zag course across the river."
+    },
+    {
+      "id": "Lock 2",
+      "type": "Lock",
+      "aliases": [
+        "Lock 2",
+        "LOCK C2",
+        "C2"
+      ],
+      "example_mention": "Lock C2 bisects a rocky island in the Hudson River between the Mechanicville Hydroelectric Plant and a fixed crest overflow dam."
+    },
+    {
+      "id": "Mechanicville Hydroelectric Plant",
+      "type": "HydroelectricPlant",
+      "aliases": [
+        "Mechanicville Hydroelectric Plant",
+        "FERC P-6032"
+      ],
+      "example_mention": "Mechanicville Hydroelectric Plant (FERC P-6032)"
+    },
+    {
+      "id": "Dam 2",
+      "type": "Dam",
+      "aliases": [
+        "Dam 2",
+        "Dam C2",
+        "DEC #225-0102"
+      ],
+      "example_mention": "The powerplant and dam (DEC #225-0102) were constructed by the Hudson River Power Transmission Company in 1897."
+    },
+    {
+      "id": "Lock 3",
+      "type": "Lock",
+      "aliases": [
+        "Lock 3",
+        "LOCK C3",
+        "C3"
+      ],
+      "example_mention": "Lock C3 was constructed by Shanley-Morrissey under Contract 68."
+    },
+    {
+      "id": "Dam 3",
+      "type": "Dam",
+      "aliases": [
+        "Dam 3",
+        "Dam C3",
+        "DEC #225-0119"
+      ],
+      "example_mention": "The dam (DEC #225-0119) predates Barge Canal construction and was built to supply power and process water to paper mills."
+    },
+    {
+      "id": "Lock 4",
+      "type": "Lock",
+      "aliases": [
+        "Lock 4",
+        "LOCK C4",
+        "C4"
+      ],
+      "example_mention": "Lock C4 was built by Shanley-Morrissey under Contract 68."
+    },
+    {
+      "id": "Dam 4",
+      "type": "Dam",
+      "aliases": [
+        "Dam 4",
+        "Dam C-4",
+        "Stillwater Fixed Crest Dam"
+      ],
+      "example_mention": "Stillwater Fixed Crest Dam (Dam C-4)"
+    },
+    {
+      "id": "Lock 5",
+      "type": "Lock",
+      "aliases": [
+        "Lock 5",
+        "LOCK C5",
+        "C5"
+      ],
+      "example_mention": "Lock C5 is at the lower end of a mile-long land cut that leads to the pool behind Northumberland Dam."
+    },
+    {
+      "id": "Thompson Dam",
+      "type": "Dam",
+      "aliases": [
+        "Thompson Dam",
+        "Fixed Crest Dam 5",
+        "Fixed Crest Dam C-5"
+      ],
+      "example_mention": "Thompson Dam - Fixed Crest Dam C-5"
+    },
+    {
+      "id": "Lock 6",
+      "type": "Lock",
+      "aliases": [
+        "Lock 6",
+        "LOCK C6",
+        "C6"
+      ],
+      "example_mention": "Lock C6 was built by Sunderstrom & Stratton under Contract 3."
+    },
+    {
+      "id": "Crocker Reef Dam",
+      "type": "Dam",
+      "aliases": [
+        "Crocker Reef Dam",
+        "DEC Dam #224-0316"
+      ],
+      "example_mention": "Crocker Reef Dam (2 Contributing Structures)"
+    },
+    {
+      "id": "Crocker Reef Guard Gate",
+      "type": "GuardGate",
+      "aliases": [
+        "Crocker Reef Guard Gate"
+      ],
+      "example_mention": "Crocker Reef Guard Gate (1 Contributing Structure)"
+    },
+    {
+      "id": "Lock 7",
+      "type": "Lock",
+      "aliases": [
+        "Lock 7",
+        "LOCK C7",
+        "C7"
+      ],
+      "example_mention": "Lock C7 has a 10' lift to the north with downstream approach wall on the east side."
+    },
+    {
+      "id": "Lock 8",
+      "type": "Lock",
+      "aliases": [
+        "Lock 8",
+        "LOCK C8",
+        "C8"
+      ],
+      "example_mention": "Lock C8 raises boats to the summit level between the Hudson and Lake Champlain/St. Lawrence drainage basins."
+    },
+    {
+      "id": "Glens Falls Feeder",
+      "type": "FeederCanal",
+      "aliases": [
+        "Glens Falls Feeder",
+        "Old Champlain Canal",
+        "Feeder Canal"
+      ],
+      "example_mention": "Delivers water to summit level of Champlain Barge Canal from Feeder Dam on the Hudson."
+    },
+    {
+      "id": "Lock 9",
+      "type": "Lock",
+      "aliases": [
+        "Lock 9",
+        "LOCK C9",
+        "C9"
+      ],
+      "example_mention": "Lock C9 is at the northern end of the summit level."
+    },
+    {
+      "id": "Lock 11",
+      "type": "Lock",
+      "aliases": [
+        "Lock 11",
+        "LOCK C11",
+        "C11"
+      ],
+      "example_mention": "Lock C11 has a 12' lift to the south."
+    },
+    {
+      "id": "Lock 12",
+      "type": "Lock",
+      "aliases": [
+        "Lock 12",
+        "LOCK C12",
+        "C12"
+      ],
+      "example_mention": "Lock C12 marks the northern end of the Champlain Canal and the entry into Lake Champlain."
+    },
+    {
+      "id": "Whitehall Terminal",
+      "type": "Terminal",
+      "aliases": [
+        "Whitehall Terminal",
+        "Whitehall Terminal Warehouse",
+        "Skenesborough Museum"
+      ],
+      "example_mention": "Whitehall Terminal (1 Contributing Structure, 1 Contributing Building)"
+    },
+    {
+      "id": "Peebles Island State Park",
+      "type": "StatePark",
+      "aliases": [
+        "Peebles Island State Park"
+      ],
+      "example_mention": "Now part of Peebles Island State Park."
+    },
+    {
+      "id": "Matton Shipyard",
+      "type": "Shipyard",
+      "aliases": [
+        "Matton Shipyard"
+      ],
+      "example_mention": "Matton Shipyard (point of interest, NR Listed 2010 - not counted)"
+    },
+    {
+      "id": "New York State Canal Corporation",
+      "type": "Organization",
+      "aliases": [
+        "NYS Canal Corporation",
+        "New York State Canal Corporation"
+      ],
+      "example_mention": "This nomination uses the New York State Canal Corporation's official tables of distances."
+    },
+    {
+      "id": "U.S. Army Corps of Engineers",
+      "type": "Organization",
+      "aliases": [
+        "U.S. Army Corps of Engineers"
+      ],
+      "example_mention": "Operated by U.S. Army Corps of Engineers."
+    },
+    {
+      "id": "Shanley-Morrissey Inc.",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Shanley-Morrissey Inc.",
+        "Shanley-Morrissey"
+      ],
+      "example_mention": "Initial construction began by Shanley-Morrissey, Inc. under Contract 71."
+    },
+    {
+      "id": "P. McGovern & Company",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "P. McGovern & Company"
+      ],
+      "example_mention": "Contract 71-A (1/13/1913) to P. McGovern & Company."
+    },
+    {
+      "id": "I.A. Hodge & Co",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "I.A. Hodge & Co"
+      ],
+      "example_mention": "Constructed by I.A. Hodge & Co under Contract 69."
+    },
+    {
+      "id": "Hudson River Power Transmission Company",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Hudson River Power Transmission Company"
+      ],
+      "example_mention": "Constructed by the Hudson River Power Transmission Company in 1897."
+    },
+    {
+      "id": "Bronk & Kimmey",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Bronk & Kimmey"
+      ],
+      "example_mention": "Bronk & Kimmey built concrete guide cribs at C3, C5, and C6 under Contract 168."
+    },
+    {
+      "id": "E.M. Graves",
+      "type": "Contractor",
+      "aliases": [
+        "E.M. Graves"
+      ],
+      "example_mention": "Retaining walls at the west (Saratoga County) end of the dam were built by E.M. Graves under Contract 73."
+    },
+    {
+      "id": "J.W. Holler",
+      "type": "Contractor",
+      "aliases": [
+        "J.W. Holler"
+      ],
+      "example_mention": "J.W. Holler of Fort Edward rehabilitated portions of Thompson Dam under maintenance contract M-23."
+    },
+    {
+      "id": "Collins Brothers",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Collins Brothers"
+      ],
+      "example_mention": "Collins Brothers erected a 16' x 30' frame freighthouse at Mechanicville Terminal in 1917."
+    },
+    {
+      "id": "D'Olier Engineering Company",
+      "type": "EngineeringCompany",
+      "aliases": [
+        "D'Olier Engineering Company"
+      ],
+      "example_mention": "D'Olier Engineering Company installed the hydroelectric generators, controls, and operating motors in 1911 under Contract 90."
+    },
+    {
+      "id": "Empire Engineering Corporation",
+      "type": "EngineeringCompany",
+      "aliases": [
+        "Empire Engineering Corporation"
+      ],
+      "example_mention": "Constructed 1906 by Empire Engineering Corporation under Barge Canal construction contract 1."
+    },
+    {
+      "id": "Kingsbury Construction Company",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Kingsbury Construction Company"
+      ],
+      "example_mention": "Constructed by Kingsbury Construction Company of Hudson Falls under Contract 24."
+    },
+    {
+      "id": "Scott Brothers",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Scott Brothers"
+      ],
+      "example_mention": "Scott Brothers of Rome NY restarted construction at the present location under Contract 54."
+    },
+    {
+      "id": "Hunkin-Conkey Construction Company",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Hunkin-Conkey Construction Company"
+      ],
+      "example_mention": "Hunkin-Conkey Construction Company of Cleveland took over Contract 54 in 1911."
+    },
+    {
+      "id": "Kinser Construction Company",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Kinser Construction Company"
+      ],
+      "example_mention": "Construction of Lock C7, C8 and the prism in-between was started by Kinser Construction Company under Contract 27."
+    },
+    {
+      "id": "Atlantic, Gulf and Pacific Company",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Atlantic, Gulf and Pacific Company"
+      ],
+      "example_mention": "Lock C11, the dam, and powerhouse building were built by Atlantic, Gulf and Pacific Company under Contract 15."
+    },
+    {
+      "id": "New York State Dredging Corporation",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "New York State Dredging Corporation"
+      ],
+      "example_mention": "New York State Dredging Corporation of Rochester excavated the harbor and turning basin under Contract 7A."
+    },
+    {
+      "id": "J.A. Laporte",
+      "type": "Contractor",
+      "aliases": [
+        "J.A. Laporte"
+      ],
+      "example_mention": "The terminal warehouse was built by J.A. Laporte under Contract T201."
+    },
+    {
+      "id": "Village of Whitehall",
+      "type": "Village",
+      "aliases": [
+        "Village of Whitehall",
+        "Whitehall"
+      ],
+      "example_mention": "Village of Whitehall, Washington County"
+    },
+    {
+      "id": "Town of Fort Edward",
+      "type": "Town",
+      "aliases": [
+        "Town of Fort Edward",
+        "Fort Edward"
+      ],
+      "example_mention": "Town of Fort Edward, Washington County"
+    },
+    {
+      "id": "Town of Kingsbury",
+      "type": "Town",
+      "aliases": [
+        "Town of Kingsbury",
+        "Kingsbury"
+      ],
+      "example_mention": "Town of Kingsbury, Washington County"
+    },
+    {
+      "id": "Town of Greenwich",
+      "type": "Town",
+      "aliases": [
+        "Town of Greenwich",
+        "Greenwich"
+      ],
+      "example_mention": "Town of Greenwich, Washington County"
+    },
+    {
+      "id": "Town of Saratoga",
+      "type": "Town",
+      "aliases": [
+        "Town of Saratoga",
+        "Saratoga"
+      ],
+      "example_mention": "Town of Saratoga, Saratoga County"
+    },
+    {
+      "id": "Town of Schaghticoke",
+      "type": "Town",
+      "aliases": [
+        "Town of Schaghticoke",
+        "Schaghticoke"
+      ],
+      "example_mention": "Town of Schaghticoke, Rensselaer County"
+    },
+    {
+      "id": "City of Troy",
+      "type": "City",
+      "aliases": [
+        "City of Troy",
+        "Troy"
+      ],
+      "example_mention": "City of Troy, Rensselaer County"
+    },
+    {
+      "id": "City of Mechanicville",
+      "type": "City",
+      "aliases": [
+        "City of Mechanicville",
+        "Mechanicville"
+      ],
+      "example_mention": "City of Mechanicville, Saratoga County"
+    },
+    {
+      "id": "Village of Schuylerville",
+      "type": "Village",
+      "aliases": [
+        "Village of Schuylerville",
+        "Schuylerville"
+      ],
+      "example_mention": "Village of Schuylerville, Saratoga County"
+    },
+    {
+      "id": "Town of Easton",
+      "type": "Town",
+      "aliases": [
+        "Town of Easton",
+        "Easton"
+      ],
+      "example_mention": "Town of Easton, Washington County"
+    },
+    {
+      "id": "Town of Fort Ann",
+      "type": "Town",
+      "aliases": [
+        "Town of Fort Ann",
+        "Fort Ann"
+      ],
+      "example_mention": "Town of Fort Ann, Washington County"
+    },
+    {
+      "id": "Holler & Shepherd",
+      "type": "ConstructionCompany",
+      "aliases": [
+        "Holler & Shepherd"
+      ],
+      "example_mention": "re-let as 27A, awarded to Holler & Shepherd after a December 1908 landslide necessitated relocation of C7."
+    },
+    {
+      "id": "Mechanicville Terminal",
+      "type": "Terminal",
+      "aliases": [
+        "Mechanicville Terminal"
+      ],
+      "example_mention": "Collins Brothers erected a 16' x 30' frame freighthouse at Mechanicville Terminal in 1917."
+    },
+    {
+      "id": "Federal Lock & Dam, Troy",
+      "type": "LockAndDam",
+      "aliases": [
+        "Federal Lock & Dam, Troy"
+      ],
+      "example_mention": "Operated by U.S. Army Corps of Engineers."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Lock 1",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Dam 1",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 2",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 3",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 4",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 5",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 6",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 7",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 8",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 9",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 11",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 12",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Glens Falls Feeder",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Matton Shipyard",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Lock 1",
+      "target": "City of Troy",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 2",
+      "target": "City of Mechanicville",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 3",
+      "target": "Town of Schaghticoke",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 4",
+      "target": "Town of Easton",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 5",
+      "target": "Town of Saratoga",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 6",
+      "target": "Town of Fort Edward",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 7",
+      "target": "Town of Fort Edward",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 8",
+      "target": "Town of Fort Edward",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 9",
+      "target": "Town of Kingsbury",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 11",
+      "target": "Town of Fort Ann",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 12",
+      "target": "Village of Whitehall",
+      "type": "located_in"
+    },
+    {
+      "source": "Whitehall Terminal",
+      "target": "Village of Whitehall",
+      "type": "located_in"
+    },
+    {
+      "source": "Matton Shipyard",
+      "target": "Peebles Island State Park",
+      "type": "located_in"
+    },
+    {
+      "source": "Mechanicville Terminal",
+      "target": "City of Mechanicville",
+      "type": "located_in"
+    },
+    {
+      "source": "Lock 1",
+      "target": "Shanley-Morrissey Inc.",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 1",
+      "target": "P. McGovern & Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 2",
+      "target": "I.A. Hodge & Co",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Dam 2",
+      "target": "Hudson River Power Transmission Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 3",
+      "target": "Shanley-Morrissey Inc.",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 4",
+      "target": "Shanley-Morrissey Inc.",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 5",
+      "target": "Shanley-Morrissey Inc.",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 3",
+      "target": "Bronk & Kimmey",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 5",
+      "target": "Bronk & Kimmey",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 6",
+      "target": "Bronk & Kimmey",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Thompson Dam",
+      "target": "E.M. Graves",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Thompson Dam",
+      "target": "J.W. Holler",
+      "type": "repair_event"
+    },
+    {
+      "source": "Mechanicville Terminal",
+      "target": "Collins Brothers",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 11",
+      "target": "Atlantic, Gulf and Pacific Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 11",
+      "target": "D'Olier Engineering Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 9",
+      "target": "Atlantic, Gulf and Pacific Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 9",
+      "target": "D'Olier Engineering Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 12",
+      "target": "Atlantic, Gulf and Pacific Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 12",
+      "target": "D'Olier Engineering Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 7",
+      "target": "Scott Brothers",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 7",
+      "target": "Hunkin-Conkey Construction Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 7",
+      "target": "Kinser Construction Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 8",
+      "target": "Kinser Construction Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Lock 8",
+      "target": "Holler & Shepherd",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Crocker Reef Dam",
+      "target": "Empire Engineering Corporation",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Crocker Reef Guard Gate",
+      "target": "Kingsbury Construction Company",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Whitehall Terminal",
+      "target": "J.A. Laporte",
+      "type": "constructed_by"
+    },
+    {
+      "source": "Champlain Canal",
+      "target": "New York State Canal Corporation",
+      "type": "maintained_by"
+    },
+    {
+      "source": "Federal Lock & Dam, Troy",
+      "target": "U.S. Army Corps of Engineers",
+      "type": "operated_by"
+    },
+    {
+      "source": "Glens Falls Feeder",
+      "target": "Hudson River",
+      "type": "fed_by"
+    },
+    {
+      "source": "Whitehall Terminal",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    },
+    {
+      "source": "Mechanicville Terminal",
+      "target": "Champlain Canal",
+      "type": "part_of"
+    }
+  ]
+}
